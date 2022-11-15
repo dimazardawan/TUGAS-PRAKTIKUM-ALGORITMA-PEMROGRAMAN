@@ -4,7 +4,7 @@
 if-else dibutuhan karena bila ada program atau sebuah kasus yang meminta mengidenfikasi sebuah objek dan atau memilih objek maka kita dapat memakai percabangan if-else. sehingga if-else memudahkan untuk membandingkan statement jika ya atau tidak. berfungsi untuk memecahkan persoalan dan mengambil satu keputusan dari beberapa pilihan sesuai kondisi yang sedang dialami program. Substatement di dalam badan pernyataan majemuk akan dieksekusi jika kondisi kebutuhan tersebut terpenuhi.
 kapan membutuhkan if-else
 kita memakai if-else ketika ingin mengambil satu keputusan dari beberapa pilihan kondisi.
-[10:40, 08/11/2022] Ray TI: -kenapa membutuhkan perulangan do-while?
+kenapa membutuhkan perulangan do-while?
 karena do-while berfungsi untuk mengulang program sehingga memudahkan untuk menyelesaikan kasus, misalnya mencetak 5 kalimat "Saya belajar C++", kita hanya menggunakan 1 kali perintah cout dan tidak 5 kali. Pada proses pengulangan do-while kondisi akan diperiksa diakhir  sehingga pengulangan yang pertama pasti terjadi atau dengan kata  lain ada minimal 1 program yang akan dijalankan sebelum masuk  kepengulangan
 kapan membutuhkan perulangan do-while?
 perulangan do while digunakan ketika kita ingin mengulang sebuah perintah dalam program sehingga tidak harus menuliskannya berulang kali.*/
